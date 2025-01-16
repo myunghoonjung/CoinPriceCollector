@@ -12,10 +12,6 @@
 - `BinanceApi.java`: 바이낸스 API 구현체.  
 - `CurrencyConverter.java`: 환율 변환 유틸리티.  
 
-### 리소스 파일
-- `price.xml`: 가격 관련 SQL 쿼리.  
-- `application.yml`: Spring 설정 파일.  
-
 ---
 
 ## 2. 가격 수집 구조
